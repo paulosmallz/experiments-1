@@ -15,6 +15,7 @@ const person = {
   age: 27,
   occupation: "Developer",
   interests: ["Sports", "Technology", "Classic Literature"],
+  open:["hi","there"]
 };
 
 function calculateFrequency(list) {
